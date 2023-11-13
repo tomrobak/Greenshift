@@ -1,0 +1,161 @@
+<!-- wp:greenshift-blocks/row {"id":"gsbp-d9227134-5558","inlineCssStyles":null,"displayStyles":false,"isVariation":""} -->
+<div class="wp-block-greenshift-blocks-row gspb_row gspb_row-id-gsbp-d9227134-5558" id="gspb_row-id-gsbp-d9227134-5558"><div class="gspb_row__content"> <!-- wp:greenshift-blocks/row-column {"id":"gsbp-548925ec-14d4","inlineCssStyles":null} -->
+<div class="wp-block-greenshift-blocks-row-column gspb_row__col--12 gspb_col-id-gsbp-548925ec-14d4" id="gspb_col-id-gsbp-548925ec-14d4"><!-- wp:greenshift-blocks/container {"id":"gsbp-88d5a0cd-cfb7","inlineCssStyles":null,"flexbox":{"type":"flexbox","flexDirection":["row"],"columngap":["8px"],"rowgap":["15px"],"justifyContent":["flex-end"],"alignItems":["center"]},"isVariation":"flexbox"} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-88d5a0cd-cfb7" id="gspb_container-id-gsbp-88d5a0cd-cfb7"><!-- wp:greenshift-blocks/container {"id":"gsbp-dacc68f0-fe76","inlineCssStyles":null,"alignSelf":["center"],"typography":{"textShadow":{},"customweight":"bold","transform":"uppercase","fontstyle":"italic"}} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-dacc68f0-fe76" id="gspb_container-id-gsbp-dacc68f0-fe76"><!-- wp:greenshift-blocks/text {"id":"gsbp-f8d64061-b2c9","textContent":"Avocado Toast","spacing":{"margin":{"values":{"bottom":["0px"]},"locked":false},"padding":{"values":{},"locked":false}}} -->
+<div id="gspb_text-id-gsbp-f8d64061-b2c9" class="gspb_text gspb_text-id-gsbp-f8d64061-b2c9 ">Avocado Toast</div>
+<!-- /wp:greenshift-blocks/text --></div>
+<!-- /wp:greenshift-blocks/container -->
+
+<!-- wp:greenshift-blocks/container {"id":"gsbp-2e6dcafe-eb47","inlineCssStyles":null,"alignSelf":["center"]} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-2e6dcafe-eb47" id="gspb_container-id-gsbp-2e6dcafe-eb47"><!-- wp:greenshift-blocks/text {"id":"gsbp-c469d389-7bae","inlineCssStyles":null,"textContent":"vegan","spacing":{"margin":{"values":{"bottom":["0px"]},"locked":false},"padding":{"values":{},"locked":false}},"typography":{"textShadow":{},"size":["0.8rem"]}} -->
+<div id="gspb_text-id-gsbp-c469d389-7bae" class="gspb_text gspb_text-id-gsbp-c469d389-7bae ">vegan</div>
+<!-- /wp:greenshift-blocks/text --></div>
+<!-- /wp:greenshift-blocks/container -->
+
+<!-- wp:greenshift-blocks/container {"id":"gsbp-9c91165d-f5c7","inlineCssStyles":null,"alignSelf":["center"],"flexGrow":["1"],"border":{"borderRadius":{"values":{},"locked":true},"style":{"bottom":["dotted"]},"size":{"bottom":[1]},"color":{"bottom":["var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dcolor\u002d\u002dpalette-color-5, var(\u002d\u002dpaletteColor5, #858383))"]},"styleHover":{},"sizeHover":{},"colorHover":{}},"spacing":{"margin":{"values":{"top":["0px"],"right":["0px"],"bottom":["0px"],"left":["0px"]},"locked":true},"padding":{"values":{"top":["0px"],"right":["0px"],"bottom":["0px"],"left":["0px"]},"locked":true}}} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-9c91165d-f5c7" id="gspb_container-id-gsbp-9c91165d-f5c7"></div>
+<!-- /wp:greenshift-blocks/container -->
+
+<!-- wp:greenshift-blocks/container {"id":"gsbp-99872d2d-c8d2","inlineCssStyles":null,"alignSelf":["start"]} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-99872d2d-c8d2" id="gspb_container-id-gsbp-99872d2d-c8d2"><!-- wp:greenshift-blocks/text {"id":"gsbp-a0c2500c-78a5","textContent":"32 zł","spacing":{"margin":{"values":{"bottom":["0px"]},"locked":false},"padding":{"values":{},"locked":false}},"typography":{"textShadow":{},"size":["1.2rem"],"customweight":"bold"}} -->
+<div id="gspb_text-id-gsbp-a0c2500c-78a5" class="gspb_text gspb_text-id-gsbp-a0c2500c-78a5 ">32 zł</div>
+<!-- /wp:greenshift-blocks/text --></div>
+<!-- /wp:greenshift-blocks/container --></div>
+<!-- /wp:greenshift-blocks/container -->
+
+<!-- wp:greenshift-blocks/container {"id":"gsbp-63a9f1cf-5301","inlineCssStyles":null} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-63a9f1cf-5301" id="gspb_container-id-gsbp-63a9f1cf-5301"><!-- wp:greenshift-blocks/text {"id":"gsbp-baae746f-d859","textContent":"\u003cem\u003eWhole grain bread topped with mashed avocado, cherry tomatoes, and a drizzle of olive oil.\u003c/em\u003e","typography":{"textShadow":{},"localfontfamily":"Mulish","color":"var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dcolor\u002d\u002dpalette-color-5, var(\u002d\u002dpaletteColor5, #858383))","fontstyle":"italic","size":["0.85rem"]}} -->
+<div id="gspb_text-id-gsbp-baae746f-d859" class="gspb_text gspb_text-id-gsbp-baae746f-d859 "><em>Whole grain bread topped with mashed avocado, cherry tomatoes, and a drizzle of olive oil.</em></div>
+<!-- /wp:greenshift-blocks/text --></div>
+<!-- /wp:greenshift-blocks/container --></div>
+<!-- /wp:greenshift-blocks/row-column -->
+
+<!-- wp:greenshift-blocks/row-column {"id":"gsbp-780833db-f9d0","inlineCssStyles":null} -->
+<div class="wp-block-greenshift-blocks-row-column gspb_row__col--12 gspb_col-id-gsbp-780833db-f9d0" id="gspb_col-id-gsbp-780833db-f9d0"><!-- wp:greenshift-blocks/container {"id":"gsbp-0e232e16-46c3","inlineCssStyles":null,"flexbox":{"type":"flexbox","flexDirection":["row"],"columngap":["8px"],"rowgap":["15px"],"justifyContent":["flex-end"],"alignItems":["center"]},"isVariation":"flexbox"} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-0e232e16-46c3" id="gspb_container-id-gsbp-0e232e16-46c3"><!-- wp:greenshift-blocks/container {"id":"gsbp-7c0a347f-ac50","inlineCssStyles":null,"alignSelf":["center"],"typography":{"textShadow":{},"customweight":"bold","transform":"uppercase","fontstyle":"italic"}} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-7c0a347f-ac50" id="gspb_container-id-gsbp-7c0a347f-ac50"><!-- wp:greenshift-blocks/text {"id":"gsbp-9348ccdd-8754","inlineCssStyles":null,"textContent":"Breakfast Burrito","spacing":{"margin":{"values":{"bottom":["0px"]},"locked":false},"padding":{"values":{},"locked":false}}} -->
+<div id="gspb_text-id-gsbp-9348ccdd-8754" class="gspb_text gspb_text-id-gsbp-9348ccdd-8754 ">Breakfast Burrito</div>
+<!-- /wp:greenshift-blocks/text --></div>
+<!-- /wp:greenshift-blocks/container -->
+
+<!-- wp:greenshift-blocks/container {"id":"gsbp-dcceb2b7-342f","inlineCssStyles":null,"alignSelf":["center"]} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-dcceb2b7-342f" id="gspb_container-id-gsbp-dcceb2b7-342f"><!-- wp:greenshift-blocks/text {"id":"gsbp-82c361ef-f5ab","inlineCssStyles":null,"textContent":"vegan","spacing":{"margin":{"values":{"bottom":["0px"]},"locked":false},"padding":{"values":{},"locked":false}},"typography":{"textShadow":{},"size":["0.8rem"]}} -->
+<div id="gspb_text-id-gsbp-82c361ef-f5ab" class="gspb_text gspb_text-id-gsbp-82c361ef-f5ab ">vegan</div>
+<!-- /wp:greenshift-blocks/text --></div>
+<!-- /wp:greenshift-blocks/container -->
+
+<!-- wp:greenshift-blocks/container {"id":"gsbp-4974bf99-1b74","inlineCssStyles":null,"alignSelf":["center"],"flexGrow":["1"],"border":{"borderRadius":{"values":{},"locked":true},"style":{"bottom":["dotted"]},"size":{"bottom":[1]},"color":{"bottom":["var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dcolor\u002d\u002dpalette-color-5, var(\u002d\u002dpaletteColor5, #858383))"]},"styleHover":{},"sizeHover":{},"colorHover":{}},"spacing":{"margin":{"values":{"top":["0px"],"right":["0px"],"bottom":["0px"],"left":["0px"]},"locked":true},"padding":{"values":{"top":["0px"],"right":["0px"],"bottom":["0px"],"left":["0px"]},"locked":true}}} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-4974bf99-1b74" id="gspb_container-id-gsbp-4974bf99-1b74"></div>
+<!-- /wp:greenshift-blocks/container -->
+
+<!-- wp:greenshift-blocks/container {"id":"gsbp-a43103bf-b246","inlineCssStyles":null,"alignSelf":["start"]} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-a43103bf-b246" id="gspb_container-id-gsbp-a43103bf-b246"><!-- wp:greenshift-blocks/text {"id":"gsbp-b373d7c3-9f26","inlineCssStyles":null,"textContent":"49 zł","spacing":{"margin":{"values":{"bottom":["0px"]},"locked":false},"padding":{"values":{},"locked":false}},"typography":{"textShadow":{},"size":["1.2rem"],"customweight":"bold"}} -->
+<div id="gspb_text-id-gsbp-b373d7c3-9f26" class="gspb_text gspb_text-id-gsbp-b373d7c3-9f26 ">49 zł</div>
+<!-- /wp:greenshift-blocks/text --></div>
+<!-- /wp:greenshift-blocks/container --></div>
+<!-- /wp:greenshift-blocks/container -->
+
+<!-- wp:greenshift-blocks/container {"id":"gsbp-0552f18b-fe05","inlineCssStyles":null} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-0552f18b-fe05" id="gspb_container-id-gsbp-0552f18b-fe05"><!-- wp:greenshift-blocks/text {"id":"gsbp-bbb4eb1d-cc29","inlineCssStyles":null,"textContent":"\u003cem\u003eScrambled eggs, black beans, avocado, and salsa wrapped in a whole wheat tortilla. Served with a side of hash browns.\u003c/em\u003e","typography":{"textShadow":{},"localfontfamily":"Mulish","color":"var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dcolor\u002d\u002dpalette-color-5, var(\u002d\u002dpaletteColor5, #858383))","fontstyle":"italic","size":["0.85rem"]}} -->
+<div id="gspb_text-id-gsbp-bbb4eb1d-cc29" class="gspb_text gspb_text-id-gsbp-bbb4eb1d-cc29 "><em>Scrambled eggs, black beans, avocado, and salsa wrapped in a whole wheat tortilla. Served with a side of hash browns.</em></div>
+<!-- /wp:greenshift-blocks/text --></div>
+<!-- /wp:greenshift-blocks/container --></div>
+<!-- /wp:greenshift-blocks/row-column -->
+
+<!-- wp:greenshift-blocks/row-column {"id":"gsbp-c8671a98-d474","inlineCssStyles":null} -->
+<div class="wp-block-greenshift-blocks-row-column gspb_row__col--12 gspb_col-id-gsbp-c8671a98-d474" id="gspb_col-id-gsbp-c8671a98-d474"><!-- wp:greenshift-blocks/container {"id":"gsbp-33c66555-1f4f","inlineCssStyles":null,"flexbox":{"type":"flexbox","flexDirection":["row"],"columngap":["8px"],"rowgap":["15px"],"justifyContent":["flex-end"],"alignItems":["center"]},"isVariation":"flexbox"} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-33c66555-1f4f" id="gspb_container-id-gsbp-33c66555-1f4f"><!-- wp:greenshift-blocks/container {"id":"gsbp-2b086bb5-dd1e","inlineCssStyles":null,"alignSelf":["center"],"typography":{"textShadow":{},"customweight":"bold","transform":"uppercase","fontstyle":"italic"}} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-2b086bb5-dd1e" id="gspb_container-id-gsbp-2b086bb5-dd1e"><!-- wp:greenshift-blocks/text {"id":"gsbp-c54af2c1-562d","inlineCssStyles":null,"textContent":"Belgian Waffles","spacing":{"margin":{"values":{"bottom":["0px"]},"locked":false},"padding":{"values":{},"locked":false}}} -->
+<div id="gspb_text-id-gsbp-c54af2c1-562d" class="gspb_text gspb_text-id-gsbp-c54af2c1-562d ">Belgian Waffles</div>
+<!-- /wp:greenshift-blocks/text --></div>
+<!-- /wp:greenshift-blocks/container -->
+
+<!-- wp:greenshift-blocks/container {"id":"gsbp-bb2fcf8c-e341","inlineCssStyles":null,"alignSelf":["center"]} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-bb2fcf8c-e341" id="gspb_container-id-gsbp-bb2fcf8c-e341"><!-- wp:greenshift-blocks/text {"id":"gsbp-d1f2ac94-3af4","inlineCssStyles":null,"textContent":"vegan","spacing":{"margin":{"values":{"bottom":["0px"]},"locked":false},"padding":{"values":{},"locked":false}},"typography":{"textShadow":{},"size":["0.8rem"]}} -->
+<div id="gspb_text-id-gsbp-d1f2ac94-3af4" class="gspb_text gspb_text-id-gsbp-d1f2ac94-3af4 ">vegan</div>
+<!-- /wp:greenshift-blocks/text --></div>
+<!-- /wp:greenshift-blocks/container -->
+
+<!-- wp:greenshift-blocks/container {"id":"gsbp-f4bceb90-ebc9","inlineCssStyles":null,"alignSelf":["center"],"flexGrow":["1"],"border":{"borderRadius":{"values":{},"locked":true},"style":{"bottom":["dotted"]},"size":{"bottom":[1]},"color":{"bottom":["var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dcolor\u002d\u002dpalette-color-5, var(\u002d\u002dpaletteColor5, #858383))"]},"styleHover":{},"sizeHover":{},"colorHover":{}},"spacing":{"margin":{"values":{"top":["0px"],"right":["0px"],"bottom":["0px"],"left":["0px"]},"locked":true},"padding":{"values":{"top":["0px"],"right":["0px"],"bottom":["0px"],"left":["0px"]},"locked":true}}} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-f4bceb90-ebc9" id="gspb_container-id-gsbp-f4bceb90-ebc9"></div>
+<!-- /wp:greenshift-blocks/container -->
+
+<!-- wp:greenshift-blocks/container {"id":"gsbp-72a0825e-a361","inlineCssStyles":null,"alignSelf":["start"]} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-72a0825e-a361" id="gspb_container-id-gsbp-72a0825e-a361"><!-- wp:greenshift-blocks/text {"id":"gsbp-38347096-60b0","inlineCssStyles":null,"textContent":"66 zł","spacing":{"margin":{"values":{"bottom":["0px"]},"locked":false},"padding":{"values":{},"locked":false}},"typography":{"textShadow":{},"size":["1.2rem"],"customweight":"bold"}} -->
+<div id="gspb_text-id-gsbp-38347096-60b0" class="gspb_text gspb_text-id-gsbp-38347096-60b0 ">66 zł</div>
+<!-- /wp:greenshift-blocks/text --></div>
+<!-- /wp:greenshift-blocks/container --></div>
+<!-- /wp:greenshift-blocks/container -->
+
+<!-- wp:greenshift-blocks/container {"id":"gsbp-73613eeb-2327","inlineCssStyles":null} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-73613eeb-2327" id="gspb_container-id-gsbp-73613eeb-2327"><!-- wp:greenshift-blocks/text {"id":"gsbp-d43a956d-e371","inlineCssStyles":null,"textContent":"\u003cem\u003eScrambled eggs, black beans, avocado, and salsa wrapped in a whole wheat tortilla. Served with a side of hash browns.\u003c/em\u003e","typography":{"textShadow":{},"localfontfamily":"Mulish","color":"var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dcolor\u002d\u002dpalette-color-5, var(\u002d\u002dpaletteColor5, #858383))","fontstyle":"italic","size":["0.85rem"]}} -->
+<div id="gspb_text-id-gsbp-d43a956d-e371" class="gspb_text gspb_text-id-gsbp-d43a956d-e371 "><em>Scrambled eggs, black beans, avocado, and salsa wrapped in a whole wheat tortilla. Served with a side of hash browns.</em></div>
+<!-- /wp:greenshift-blocks/text --></div>
+<!-- /wp:greenshift-blocks/container --></div>
+<!-- /wp:greenshift-blocks/row-column -->
+
+<!-- wp:greenshift-blocks/row-column {"id":"gsbp-a7e9743b-e86b","inlineCssStyles":null} -->
+<div class="wp-block-greenshift-blocks-row-column gspb_row__col--12 gspb_col-id-gsbp-a7e9743b-e86b" id="gspb_col-id-gsbp-a7e9743b-e86b"><!-- wp:greenshift-blocks/container {"id":"gsbp-74833cdc-58d6","inlineCssStyles":null,"flexbox":{"type":"flexbox","flexDirection":["row"],"columngap":["8px"],"rowgap":["15px"],"justifyContent":["flex-end"],"alignItems":["center"]},"isVariation":"flexbox"} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-74833cdc-58d6" id="gspb_container-id-gsbp-74833cdc-58d6"><!-- wp:greenshift-blocks/container {"id":"gsbp-456fe36e-9d77","inlineCssStyles":null,"alignSelf":["center"],"typography":{"textShadow":{},"customweight":"bold","transform":"uppercase","fontstyle":"italic"}} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-456fe36e-9d77" id="gspb_container-id-gsbp-456fe36e-9d77"><!-- wp:greenshift-blocks/text {"id":"gsbp-af6257ed-157c","inlineCssStyles":null,"textContent":"Chicken Teriyaki Bowl","spacing":{"margin":{"values":{"bottom":["0px"]},"locked":false},"padding":{"values":{},"locked":false}}} -->
+<div id="gspb_text-id-gsbp-af6257ed-157c" class="gspb_text gspb_text-id-gsbp-af6257ed-157c ">Chicken Teriyaki Bowl</div>
+<!-- /wp:greenshift-blocks/text --></div>
+<!-- /wp:greenshift-blocks/container -->
+
+<!-- wp:greenshift-blocks/container {"id":"gsbp-9ac9a3c8-0537","inlineCssStyles":null,"alignSelf":["center"]} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-9ac9a3c8-0537" id="gspb_container-id-gsbp-9ac9a3c8-0537"><!-- wp:greenshift-blocks/text {"id":"gsbp-521b904f-23f2","inlineCssStyles":null,"textContent":"vegan","spacing":{"margin":{"values":{"bottom":["0px"]},"locked":false},"padding":{"values":{},"locked":false}},"typography":{"textShadow":{},"size":["0.8rem"]}} -->
+<div id="gspb_text-id-gsbp-521b904f-23f2" class="gspb_text gspb_text-id-gsbp-521b904f-23f2 ">vegan</div>
+<!-- /wp:greenshift-blocks/text --></div>
+<!-- /wp:greenshift-blocks/container -->
+
+<!-- wp:greenshift-blocks/container {"id":"gsbp-043a408c-06ea","inlineCssStyles":null,"alignSelf":["center"],"flexGrow":["1"],"border":{"borderRadius":{"values":{},"locked":true},"style":{"bottom":["dotted"]},"size":{"bottom":[1]},"color":{"bottom":["var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dcolor\u002d\u002dpalette-color-5, var(\u002d\u002dpaletteColor5, #858383))"]},"styleHover":{},"sizeHover":{},"colorHover":{}},"spacing":{"margin":{"values":{"top":["0px"],"right":["0px"],"bottom":["0px"],"left":["0px"]},"locked":true},"padding":{"values":{"top":["0px"],"right":["0px"],"bottom":["0px"],"left":["0px"]},"locked":true}}} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-043a408c-06ea" id="gspb_container-id-gsbp-043a408c-06ea"></div>
+<!-- /wp:greenshift-blocks/container -->
+
+<!-- wp:greenshift-blocks/container {"id":"gsbp-e1833878-22a6","inlineCssStyles":null,"alignSelf":["start"]} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-e1833878-22a6" id="gspb_container-id-gsbp-e1833878-22a6"><!-- wp:greenshift-blocks/text {"id":"gsbp-f4a3eafd-1606","inlineCssStyles":null,"textContent":"15","spacing":{"margin":{"values":{"bottom":["0px"]},"locked":false},"padding":{"values":{},"locked":false}},"typography":{"textShadow":{},"size":["1.2rem"],"customweight":"bold"}} -->
+<div id="gspb_text-id-gsbp-f4a3eafd-1606" class="gspb_text gspb_text-id-gsbp-f4a3eafd-1606 ">15</div>
+<!-- /wp:greenshift-blocks/text --></div>
+<!-- /wp:greenshift-blocks/container --></div>
+<!-- /wp:greenshift-blocks/container -->
+
+<!-- wp:greenshift-blocks/container {"id":"gsbp-d3c11903-17b4","inlineCssStyles":null} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-d3c11903-17b4" id="gspb_container-id-gsbp-d3c11903-17b4"><!-- wp:greenshift-blocks/text {"id":"gsbp-8d4f2b5a-9dc1","inlineCssStyles":null,"textContent":"\u003cem\u003eScrambled eggs, black beans, avocado, and salsa wrapped in a whole wheat tortilla. Served with a side of hash browns.\u003c/em\u003e","typography":{"textShadow":{},"localfontfamily":"Mulish","color":"var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dcolor\u002d\u002dpalette-color-5, var(\u002d\u002dpaletteColor5, #858383))","fontstyle":"italic","size":["0.85rem"]}} -->
+<div id="gspb_text-id-gsbp-8d4f2b5a-9dc1" class="gspb_text gspb_text-id-gsbp-8d4f2b5a-9dc1 "><em>Scrambled eggs, black beans, avocado, and salsa wrapped in a whole wheat tortilla. Served with a side of hash browns.</em></div>
+<!-- /wp:greenshift-blocks/text --></div>
+<!-- /wp:greenshift-blocks/container --></div>
+<!-- /wp:greenshift-blocks/row-column -->
+
+<!-- wp:greenshift-blocks/row-column {"id":"gsbp-5914b6b4-67c7","inlineCssStyles":null} -->
+<div class="wp-block-greenshift-blocks-row-column gspb_row__col--12 gspb_col-id-gsbp-5914b6b4-67c7" id="gspb_col-id-gsbp-5914b6b4-67c7"><!-- wp:greenshift-blocks/container {"id":"gsbp-b9e57fe8-5895","inlineCssStyles":null,"flexbox":{"type":"flexbox","flexDirection":["row"],"columngap":["8px"],"rowgap":["15px"],"justifyContent":["flex-end"],"alignItems":["center"]},"isVariation":"flexbox"} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-b9e57fe8-5895" id="gspb_container-id-gsbp-b9e57fe8-5895"><!-- wp:greenshift-blocks/container {"id":"gsbp-c47b4389-801e","inlineCssStyles":null,"alignSelf":["center"],"typography":{"textShadow":{},"customweight":"bold","transform":"uppercase","fontstyle":"italic"}} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-c47b4389-801e" id="gspb_container-id-gsbp-c47b4389-801e"><!-- wp:greenshift-blocks/text {"id":"gsbp-31784c97-8cce","inlineCssStyles":null,"textContent":"Grilled Salmon with vegetables and spicy salsa","spacing":{"margin":{"values":{"bottom":["0px"]},"locked":false},"padding":{"values":{},"locked":false}}} -->
+<div id="gspb_text-id-gsbp-31784c97-8cce" class="gspb_text gspb_text-id-gsbp-31784c97-8cce ">Grilled Salmon with vegetables and spicy salsa</div>
+<!-- /wp:greenshift-blocks/text --></div>
+<!-- /wp:greenshift-blocks/container -->
+
+<!-- wp:greenshift-blocks/container {"id":"gsbp-2a9c0fb1-36a6","inlineCssStyles":null,"alignSelf":["center"]} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-2a9c0fb1-36a6" id="gspb_container-id-gsbp-2a9c0fb1-36a6"><!-- wp:greenshift-blocks/text {"id":"gsbp-83d98097-4494","inlineCssStyles":null,"textContent":"vegan","spacing":{"margin":{"values":{"bottom":["0px"]},"locked":false},"padding":{"values":{},"locked":false}},"typography":{"textShadow":{},"size":["0.8rem"]}} -->
+<div id="gspb_text-id-gsbp-83d98097-4494" class="gspb_text gspb_text-id-gsbp-83d98097-4494 ">vegan</div>
+<!-- /wp:greenshift-blocks/text --></div>
+<!-- /wp:greenshift-blocks/container -->
+
+<!-- wp:greenshift-blocks/container {"id":"gsbp-15149d73-756f","inlineCssStyles":null,"alignSelf":["center"],"flexGrow":["1"],"border":{"borderRadius":{"values":{},"locked":true},"style":{"bottom":["dotted"]},"size":{"bottom":[1]},"color":{"bottom":["var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dcolor\u002d\u002dpalette-color-5, var(\u002d\u002dpaletteColor5, #858383))"]},"styleHover":{},"sizeHover":{},"colorHover":{}},"spacing":{"margin":{"values":{"top":["0px"],"right":["0px"],"bottom":["0px"],"left":["0px"]},"locked":true},"padding":{"values":{"top":["0px"],"right":["0px"],"bottom":["0px"],"left":["0px"]},"locked":true}}} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-15149d73-756f" id="gspb_container-id-gsbp-15149d73-756f"></div>
+<!-- /wp:greenshift-blocks/container -->
+
+<!-- wp:greenshift-blocks/container {"id":"gsbp-134a9c7f-945d","inlineCssStyles":null,"alignSelf":["start"]} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-134a9c7f-945d" id="gspb_container-id-gsbp-134a9c7f-945d"><!-- wp:greenshift-blocks/text {"id":"gsbp-250d05fe-b050","inlineCssStyles":null,"textContent":"221 zł","spacing":{"margin":{"values":{"bottom":["0px"]},"locked":false},"padding":{"values":{},"locked":false}},"typography":{"textShadow":{},"size":["1.2rem"],"customweight":"bold"}} -->
+<div id="gspb_text-id-gsbp-250d05fe-b050" class="gspb_text gspb_text-id-gsbp-250d05fe-b050 ">221 zł</div>
+<!-- /wp:greenshift-blocks/text --></div>
+<!-- /wp:greenshift-blocks/container --></div>
+<!-- /wp:greenshift-blocks/container -->
+
+<!-- wp:greenshift-blocks/container {"id":"gsbp-65f32f8b-c986","inlineCssStyles":null} -->
+<div class="wp-block-greenshift-blocks-container gspb_container gspb_container-gsbp-65f32f8b-c986" id="gspb_container-id-gsbp-65f32f8b-c986"><!-- wp:greenshift-blocks/text {"id":"gsbp-acf6369b-b11b","inlineCssStyles":null,"textContent":"\u003cem\u003eScrambled eggs, black beans, avocado, and salsa wrapped in a whole wheat tortilla. Served with a side of hash browns.\u003c/em\u003e","typography":{"textShadow":{},"localfontfamily":"Mulish","color":"var(\u002d\u002dwp\u002d\u002dpreset\u002d\u002dcolor\u002d\u002dpalette-color-5, var(\u002d\u002dpaletteColor5, #858383))","fontstyle":"italic","size":["0.85rem"]}} -->
+<div id="gspb_text-id-gsbp-acf6369b-b11b" class="gspb_text gspb_text-id-gsbp-acf6369b-b11b "><em>Scrambled eggs, black beans, avocado, and salsa wrapped in a whole wheat tortilla. Served with a side of hash browns.</em></div>
+<!-- /wp:greenshift-blocks/text --></div>
+<!-- /wp:greenshift-blocks/container --></div>
+<!-- /wp:greenshift-blocks/row-column --> </div></div>
+<!-- /wp:greenshift-blocks/row -->
